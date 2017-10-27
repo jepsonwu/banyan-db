@@ -11,7 +11,7 @@ BanyanDB工具集，具体使用方法可以查看单元测试文件BanyanTest.p
 ### 迭代器
 - 迭代器基础功能，支持迭代、count、seek
 - 随机功能
-- limit分页功能
+- page分页功能
 
 ## Install
 ```
