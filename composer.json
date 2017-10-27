@@ -1,12 +1,12 @@
 {
-  "name": "jepsonwu/banyanDB",
+  "name": "jepsonwu/banyan-db",
   "description": "banyanDB library",
   "keywords": [
     "banyan",
     "ssdb",
     "jepson"
   ],
-  "homepage": "https://github.com/jepsonwu/banyanDB",
+  "homepage": "https://github.com/jepsonwu/banyan-db",
   "type": "library",
   "license": "MIT",
   "authors": [

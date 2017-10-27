@@ -15,5 +15,5 @@ BanyanDB工具集，具体使用方法可以查看单元测试文件BanyanTest.p
 
 ## Install
 ```
-composer require jepsonwu/banyanDB
+composer require jepsonwu/banyan-db
 ```
