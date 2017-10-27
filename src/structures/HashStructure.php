@@ -8,8 +8,11 @@ use Jepsonwu\banyanDB\InterfaceBanyan;
 
 /**
  * @method hgetall() array|mixed
+ * @method multi_hget() array|mixed
+ * @method multi_hset() array|mixed
+ * @method multi_hdel() array|mixed
  *
- * hash banyan model
+ *
  * Created by PhpStorm.
  * User: jepsonwu
  * Date: 2017/6/19

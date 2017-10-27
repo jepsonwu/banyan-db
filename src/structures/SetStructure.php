@@ -7,7 +7,12 @@ use Jepsonwu\banyanDB\AbstractBanyan;
 use Jepsonwu\banyanDB\InterfaceBanyan;
 
 /**
- * hash banyan model
+ * @method multi_zset() array|mixed
+ * @method multi_zget() array|mixed
+ * @method multi_zdel() bool
+ * @method zrank() array|mixed
+ * @method zrrank() array|mixed
+ *
  * Created by PhpStorm.
  * User: jepsonwu
  * Date: 2017/6/19

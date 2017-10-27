@@ -7,9 +7,12 @@ use Jepsonwu\banyanDB\AbstractBanyan;
 use Jepsonwu\banyanDB\traits\Queue;
 
 /**
+ * @method qlist() array|mixed
+ * @method qclear() bool
+ * @method qback() array|mixed
+ * @method qpush_back() array|mixed
  *
  *
- * hash banyan model
  * Created by PhpStorm.
  * User: jepsonwu
  * Date: 2017/6/19

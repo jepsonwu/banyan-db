@@ -8,7 +8,7 @@ use Jepsonwu\banyanDB\InterfaceBanyan;
 
 /**
  * 键值对 name为null
- * hash banyan model
+ *
  * Created by PhpStorm.
  * User: jepsonwu
  * Date: 2017/6/19
