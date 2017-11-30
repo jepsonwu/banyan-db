@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<phpunit bootstrap="Autoload.php" colors="true">
+<phpunit bootstrap="../Autoload.php" colors="true">
     <testsuites>
         <testsuite name="Service Hook Test Suite">
             <file>tests/BanyanTest.php</file>

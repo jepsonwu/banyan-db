@@ -24,12 +24,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Jepsonwu\\": "src"
+      "Jepsonwu\\banyanDB\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Jepsonwu\\": "tests"
+      "Jepsonwu\\banyanDB\\": "tests"
     }
   },
   "scripts": {
