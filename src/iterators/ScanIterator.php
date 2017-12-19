@@ -96,10 +96,15 @@ class ScanIterator extends AbstractIterator
             return $this;
         }
 
+        if ($page > $totalPage) {
+            $this->data = [];
+            $this->isSeek = true;
+            return $this;
+        }
+
         $this->isSeek = false;
         $this->rewind();
 
-        $page > $totalPage && $page = $totalPage;
         if ($page == 1 && $this->scan_start == "") {
             return $this;
         }
